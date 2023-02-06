@@ -1,0 +1,19 @@
+.features {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 2rem;
+    padding-left: 17rem;
+  }
+  
+  .features {
+    position: relative;
+    margin-right: 2rem;
+  }
+
+  h4 {
+    margin: 2rem 0;
+    width: 70%;
+    font-size: 15px;
+    padding-left: 20rem;
+    color: var(--color-white);
+  }
