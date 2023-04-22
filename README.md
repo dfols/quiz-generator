@@ -6,7 +6,7 @@ The Quiz Website will allow for an instructor to create a randomly generated qui
 Tiffany Offord - Team Leader <br>
 Chris Whitaker - Senior Developer <br>
 Andrew Terhall - Senior Developer <br>
-Dylan Foley - Junior Developer / Tester <br>
+dfols - Junior Developer / Tester <br>
 Christine Pavlik - Junior Developer / Tester <br>
 Joao Carmo - Junior Developer / Tester <br>
 Geoffrey Schmidt - Junior Developer / Tester <br>
